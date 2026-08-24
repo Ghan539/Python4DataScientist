@@ -1,1 +1,41 @@
 
+NumPy
+
+This folder contains my NumPy learning and practice notebooks as part of my journey toward becoming a Data Scientist.
+
+Contents
+Session 13 — NumPy Fundamentals
+
+session13_numpy_fundamentals.ipynb
+
+Covers the fundamentals of NumPy, including:
+
+NumPy arrays
+Array creation
+Array attributes
+Indexing and slicing
+Array operations
+Basic mathematical operations
+Reshaping arrays
+Session 14 — NumPy Advanced
+
+session14_numpy_advanced.ipynb
+
+Covers advanced NumPy concepts, including:
+
+Advanced indexing
+Broadcasting
+Array manipulation
+Mathematical and statistical functions
+Working with multidimensional arrays
+Vectorized operations
+Session 15 — NumPy Practice
+
+session_15_practice_numpy_3.ipynb
+
+Contains hands-on practice questions and exercises to strengthen NumPy concepts learned in previous sessions.
+
+🛠️ Technologies
+Python
+NumPy
+Google Colab
