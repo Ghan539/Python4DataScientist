@@ -1,1 +1,50 @@
 
+# Pandas
+
+This folder contains my practice and learning work with **Pandas**, a powerful Python library used for data analysis and manipulation.
+
+# Topics Covered
+
+- Series
+- DataFrame
+- Reading CSV files
+- Selecting rows and columns
+- Filtering data
+- Sorting data
+- Handling missing values
+- `value_counts()`
+- `groupby()`
+- Aggregation functions
+- `apply()`
+- Lambda functions
+- `merge()`
+- `concat()`
+- DataFrame operations
+- Data cleaning
+- Basic data analysis
+- Working with real-world datasets
+
+# Datasets
+
+The practice includes datasets such as:
+
+- IPL Matches
+- Movies
+- Kohli IPL statistics
+- Other datasets used for Pandas practice
+
+# Tools Used
+
+- Python
+- Pandas
+- NumPy
+- Google Colab
+- Jupyter Notebook
+
+# Purpose
+
+The purpose of this folder is to practice Pandas concepts and build a strong foundation in **data analysis with Python**.
+
+# Progress
+
+This folder is continuously updated as I learn and practice new Pandas concepts.
