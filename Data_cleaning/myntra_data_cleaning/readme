@@ -1,1 +1,49 @@
 
+# Myntra Data Cleaning Project
+
+## About the Project
+
+This is my first Data Analyst project, where I worked on cleaning Myntra product data using Python and Pandas.
+
+The original dataset contained product information such as prices, discounts, ratings, sellers, sizes, and delivery details. My goal was to clean the raw data and make it ready for further analysis.
+
+## What I Worked On
+
+In this project, I practiced:
+
+- Checking the dataset structure and data types
+- Identifying missing values
+- Handling missing discount values
+- Investigating inconsistent discount values
+- Cleaning `initial_price` and `final_price`
+- Removing the ₹ symbol, commas, and unnecessary characters from price values
+- Converting price columns into numeric data types
+- Renaming columns
+- Changing the order of columns
+- Handling missing and blank seller names
+- Working with the `sizes` column
+- Removing unnecessary columns such as `best_offer` and `more_offers`
+
+## Tools Used
+
+- Python
+- Pandas
+- NumPy
+- Google Colab
+- GitHub
+
+## Files
+
+| File | Description |
+|---|---|
+| `Myntra products .csv` | Raw Myntra dataset |
+| `myntra_sales_Data_Cleaning.ipynb` | Notebook containing the data-cleaning process |
+| `myntra_cleaned_datafinal.csv` | Cleaned Myntra dataset |
+
+## Project Goal
+
+The goal of this project was to practice data cleaning with a real-world e-commerce dataset and prepare the data for the next stage of the project.
+
+## Next Step
+
+The cleaned dataset will be used for **Exploratory Data Analysis (EDA)** in the next stage of the project.
